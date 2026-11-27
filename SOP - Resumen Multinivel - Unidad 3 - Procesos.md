@@ -1,7 +1,4 @@
 # Resumen Multinivel — Unidad 3: Administración de Procesos (Partes 3, 4, 5 y 6)
-
-> **Ficha Panorámica:** Síntesis completa y detallada de la **Unidad 3 (Partes 3, 4, 5 y 6)** para el **2.º Parcial Teórico de Sistemas Operativos** (UTN FRC), elaborada a partir de las presentaciones oficiales de cátedra (Ing. Cecilia B. Sánchez) y completando todos los diagramas, códigos y explicaciones faltantes en `resumen teorico lichi.pdf`. *(Alcance del 2.º Parcial Teórico: Partes 3 a 6 de U3 + U4 Seguridad; no entran Parte 2, Memoria ni Docker).*
-
 ---
 
 ## Nivel 1: Visión General y Síntesis Ejecutiva
