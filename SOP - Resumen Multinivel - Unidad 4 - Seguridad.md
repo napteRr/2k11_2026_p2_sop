@@ -1,7 +1,5 @@
 # Resumen Multinivel — Unidad 4: Seguridad en Sistemas Operativos
 
-> **Ficha Panorámica:** Síntesis completa de la **Unidad 4 — Seguridad** (49 diapositivas de `SOP_Unidad_4_Parte_Unica_Seguridad_2026.pdf`, complementada con `resumen teorico lichi.pdf` y las exigencias de corrección de `parcial p2 sop napter.pdf`), cubriendo requisitos, amenazas/ataques, protección, control de acceso, contraseñas y *aderezo* (*salt*), cuentas Linux (`/etc/passwd`, `/etc/group`, `/etc/shadow`), detección de intrusos, software malicioso y antivirus.
-
 ---
 
 ## Nivel 1: Visión General y Síntesis Ejecutiva
